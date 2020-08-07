@@ -36,9 +36,7 @@ These are the courses I synthesize.
 ## Planning
 
 
-## Day 0 
-* Setup project skeleton
-## Day 1 
-### Today's progress
-### Thoughts
-### Links to work
+## Course 1: C# Tutorial | SoloLearn: Learn to code for FREE!
+### Link To Work
+- Link: https://www.sololearn.com/Course/CSharp/
+- [Course 1](course-1-C#-tutorial-sololearn/README.md)
