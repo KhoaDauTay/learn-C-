@@ -39,4 +39,4 @@ These are the courses I synthesize.
 ## Course 1: C# Tutorial | SoloLearn: Learn to code for FREE!
 ### Link To Work
 - Link: https://www.sololearn.com/Course/CSharp/
-- [Course 1](course-1-C#-tutorial-sololearn/README.md)
+- [Course 1](course-1-c-sharp-tutorial-sololearn/README.md)
